@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49c7970c-8081-439e-97a6-45ee15e4a02f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UYZnqE60iAuY7NFd6VS6u7YSo9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="protected" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19501466" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="engine.domain" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="engine.codec" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="engine.domain" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ivan\workspace\my-matching-engine\src\test\java" />
+      <recent name="C:\Users\ivan\workspace\my-matching-engine\src\main\java" />
+      <recent name="C:\Users\ivan\workspace\my-matching-engine\src\test" />
+      <recent name="C:\Users\ivan\workspace\my-matching-engine\src\main" />
+      <recent name="C:\Users\ivan\workspace\my-matching-engine\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.engine in my-matching-engine">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="engine.Main" />
+      <module name="my-matching-engine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchingEngineTest.matchSellHitsLvl2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-matching-engine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="engine.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="engine.domain" />
+      <option name="MAIN_CLASS_NAME" value="engine.domain.MatchingEngineTest" />
+      <option name="METHOD_NAME" value="matchSellHitsLvl2Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatchingEngineTest.matchSellWithIcebergOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-matching-engine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="engine.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="engine.domain" />
+      <option name="MAIN_CLASS_NAME" value="engine.domain.MatchingEngineTest" />
+      <option name="METHOD_NAME" value="matchSellWithIcebergOrderTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SETSmmTest.aggressiveIcebergOrderEntryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-matching-engine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="engine" />
+      <option name="MAIN_CLASS_NAME" value="engine.SETSmmTest" />
+      <option name="METHOD_NAME" value="aggressiveIcebergOrderEntryTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="engine in my-matching-engine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-matching-engine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="engine" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MatchingEngineTest.matchSellWithIcebergOrderTest" />
+      <item itemvalue="JUnit.SETSmmTest.aggressiveIcebergOrderEntryTest" />
+      <item itemvalue="JUnit.engine in my-matching-engine" />
+      <item itemvalue="JUnit.MatchingEngineTest.matchSellHitsLvl2Test" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.engine in my-matching-engine" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MatchingEngineTest.matchSellWithIcebergOrderTest" />
+        <item itemvalue="JUnit.MatchingEngineTest.matchSellHitsLvl2Test" />
+        <item itemvalue="JUnit.SETSmmTest.aggressiveIcebergOrderEntryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49c7970c-8081-439e-97a6-45ee15e4a02f" name="Default Changelist" comment="" />
+      <created>1575535659031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575535659031</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="110" y="120" width="1146" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1575858742928">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="110" y="120" width="1146" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.768@0.0.1366.768" timestamp="1575858742928" />
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1575850282453">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1575850282453" />
+    <state x="381" y="309" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1575550908533">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="381" y="309" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.768@0.0.1366.768" timestamp="1575550908533" />
+    <state x="479" y="243" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575625429432">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="479" y="243" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1575625429432" />
+    <state x="902" y="90" width="417" height="595" key="#xdebugger.evaluate" timestamp="1575837088481">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="902" y="90" width="417" height="595" key="#xdebugger.evaluate/0.0.1366.768@0.0.1366.768" timestamp="1575837088481" />
+    <state width="464" height="466" key="DebuggerActiveHint" timestamp="1575863535047">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="464" height="466" key="DebuggerActiveHint/0.0.1366.768@0.0.1366.768" timestamp="1575863535047" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1575550375872">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1575550375872" />
+    <state width="1323" height="261" key="GridCell.Tab.0.bottom" timestamp="1575891698887">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="261" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1575891698887" />
+    <state width="1323" height="261" key="GridCell.Tab.0.center" timestamp="1575891698887">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="261" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1575891698887" />
+    <state width="1323" height="261" key="GridCell.Tab.0.left" timestamp="1575891698887">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="261" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1575891698887" />
+    <state width="1323" height="261" key="GridCell.Tab.0.right" timestamp="1575891698887">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="261" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1575891698887" />
+    <state width="1323" height="241" key="GridCell.Tab.1.bottom" timestamp="1575864539493">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="241" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1575864539493" />
+    <state width="1323" height="241" key="GridCell.Tab.1.center" timestamp="1575864539493">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="241" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1575864539493" />
+    <state width="1323" height="241" key="GridCell.Tab.1.left" timestamp="1575864539493">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="241" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1575864539493" />
+    <state width="1323" height="241" key="GridCell.Tab.1.right" timestamp="1575864539493">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="241" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1575864539493" />
+    <state x="213" y="38" key="Maven.ArtifactSearchDialog" timestamp="1575537160490">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="213" y="38" key="Maven.ArtifactSearchDialog/0.0.1366.768@0.0.1366.768" timestamp="1575537160490" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1575551239297">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1575551239297" />
+    <state x="745" y="132" width="570" height="524" key="StructurePopup" timestamp="1575848443404">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="745" y="132" width="570" height="524" key="StructurePopup/0.0.1366.768@0.0.1366.768" timestamp="1575848443404" />
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1575791779836">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1575791779836" />
+    <state x="413" y="139" width="540" height="499" key="extract.method.dialog" timestamp="1575741000306">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="139" width="540" height="499" key="extract.method.dialog/0.0.1366.768@0.0.1366.768" timestamp="1575741000306" />
+    <state x="314" y="86" width="737" height="596" key="find.popup" timestamp="1575834026073">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="314" y="86" width="737" height="596" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1575834026073" />
+    <state x="389" y="5" key="refactoring.ChangeSignatureDialog" timestamp="1575852064823">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="389" y="5" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1575852064823" />
+    <state x="339" y="174" key="run.anything.popup" timestamp="1575844178823">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="174" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1575844178823" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1575892647049">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1575892647049" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/engine/domain/OrderBookEntryIteratorTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-13.0.1/lib/src.zip!/java.base/java/util/LinkedList.java</url>
+          <line>946</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/engine/domain/OrderBookTest.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/engine/domain/OrderBookTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/engine/SETSmmTest.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/engine/SETSmmTest.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/engine/SETSmmTest.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/engine/domain/MatchingEngineTest.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/engine/codec/OrderBookEncoder.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
