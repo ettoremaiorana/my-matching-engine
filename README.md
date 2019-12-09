@@ -19,6 +19,7 @@ Things that I like:
 - I believe it's flexible enough to be extended and reasonably easy to read.
 
 Entries sample:
+`
 B,1111,99,50000
 B,3333,98,25500
 S,2222,100,10000
@@ -29,3 +30,4 @@ S,2222,100,10000
 S,2222,1,11000
 B,7777,100,50000,20000
 S,2222,1,35000
+`
