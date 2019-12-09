@@ -9,10 +9,10 @@
 mvn clean compile test assembly:single
 
 a couple of notes about the implementation:
-- I did not aim to extreme performance. The application creates object on the heap, uses String, prints to system,out etc. etc. 
+- I did not aim to extreme performance. The application creates objects on the heap, uses String, prints to system,out etc. etc. 
 
 What I don't like about this implementation:
-- Some patterns are sub-optimal, such as lines 51 to 53 of the class MatchinEngine.
+- Some patterns are sub-optimal, such as lines 51 to 53 of class MatchinEngine.
 - There's some unit testing but not enough in my opinion, especially on how to deal with Iceberg orders. 
 
 Things that I like:
